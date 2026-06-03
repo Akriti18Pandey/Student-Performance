@@ -99,7 +99,7 @@ st.markdown(
 # LOAD DATA
 # ==================================================
 
-df = pd.read_csv("student-mat.csv")
+df = pd.read_csv("student_performance.csv")
 
 # Create Target Variable
 
